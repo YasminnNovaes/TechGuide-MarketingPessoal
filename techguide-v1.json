@@ -5,19 +5,39 @@
       "name": "Nivel 1 - Básico",
       "cards": [
         {
-          "name": "Nome do Cartão Customizado",
-          "description": "Descrição do Cartão",
-          "keyObjectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
+          "name": "Fundamentos de Marketing Pessoal",
+          "description": "Conceitos iniciais de branding pessoal, autoconhecimento e posicionamento.",
+          "keyObjectives": [
+            "Entender os fundamentos de branding pessoal",
+            "Definir proposta de valor pessoal",
+            "Aprender a se diferenciar no mercado"
+          ],
           "contents": [
             {
               "type": "SITE",
-              "title": "Node.js - Documentation",
-              "link": "https://nodejs.dev/en/learn/"
+              "title": "Marketing Pessoal: Como Construir uma Marca Pessoal",
+              "link": "https://www.alura.com.br/artigos/marketing-pessoal"
             }
           ]
         },
         {
-          "id": "nodejs-fundamentals"
+          "name": "Autoconhecimento e Proposta de Valor",
+          "description": "Aprofundamento em técnicas de autoconhecimento e identificação de forças.",
+          "keyObjectives": [
+            "Identificar pontos fortes e fracos",
+            "Construir uma proposta de valor única",
+            "Posicionar-se no mercado de forma estratégica"
+          ],
+          "contents": [
+            {
+              "type": "BOOK",
+              "title": "Descubra seus Pontos Fortes",
+              "link": "https://www.amazon.com.br/Descubra-seus-pontos-fortes-2-0/dp/8539001928"
+            }
+          ]
+        },
+        {
+          "id": "networking-basico"
         }
       ]
     },
@@ -25,25 +45,83 @@
       "name": "Nivel 2 - Intermediário",
       "cards": [
         {
-          "name": "Nome do Cartão Customizado 2",
-          "description": "Descrição do Cartão 2",
-          "keyObjectives": ["Objetivo 1.2", "Objetivo 2.2", "Objetivo 3.2"],
+          "name": "Comunicação Eficaz",
+          "description": "Técnicas de comunicação, escrita persuasiva e storytelling.",
+          "keyObjectives": [
+            "Desenvolver habilidades de oratória",
+            "Aprender copywriting para marketing de conteúdo",
+            "Utilizar storytelling para engajamento"
+          ],
           "contents": [
             {
               "type": "SITE",
-              "title": "Node.js - Documentation",
-              "link": "https://nodejs.dev/en/learn/"
+              "title": "Comunicação Eficaz para Networking",
+              "link": "https://www.alura.com.br/artigos/comunicacao-eficaz-networking"
+            },
+            {
+              "type": "VIDEO",
+              "title": "TEDx - A Arte do Storytelling",
+              "link": "https://www.ted.com/talks/david_jp_phillips_the_magical_science_of_storytelling"
             }
           ]
         },
         {
-          "id": "apollo-client"
+          "name": "Desenvolvimento de Presença no LinkedIn",
+          "description": "Como otimizar seu perfil e usar o LinkedIn para se destacar.",
+          "keyObjectives": [
+            "Criar um perfil de destaque",
+            "Produzir conteúdo relevante no LinkedIn",
+            "Utilizar LinkedIn para networking e oportunidades de emprego"
+          ],
+          "contents": [
+            {
+              "type": "SITE",
+              "title": "Guia Completo do LinkedIn",
+              "link": "https://blog.linkedin.com/"
+            }
+          ]
+        },
+        {
+          "id": "social-media-intermediario"
         }
       ]
     },
     {
       "name": "Nivel 3 - Avançado",
-      "cards": []
+      "cards": [
+        {
+          "name": "Estratégias Avançadas de Branding Pessoal",
+          "description": "Como se tornar uma autoridade no seu nicho e construir uma marca sólida.",
+          "keyObjectives": [
+            "Construir uma autoridade em seu nicho",
+            "Desenvolver estratégias para presença digital",
+            "Gerenciar sua reputação e relacionamento com a mídia"
+          ],
+          "contents": [
+            {
+              "type": "SITE",
+              "title": "Como se Tornar uma Autoridade no Mercado",
+              "link": "https://www.alura.com.br/artigos/autoridade-mercado"
+            }
+          ]
+        },
+        {
+          "name": "Marketing de Conteúdo Avançado",
+          "description": "Estratégias para criação de conteúdo de alta qualidade e autoridade.",
+          "keyObjectives": [
+            "Criar conteúdo que gere valor para o público",
+            "Desenvolver estratégias de SEO para artigos",
+            "Como aumentar o engajamento e relevância"
+          ],
+          "contents": [
+            {
+              "type": "SITE",
+              "title": "SEO para Marketing de Conteúdo",
+              "link": "https://neilpatel.com/br/"
+            }
+          ]
+        }
+      ]
     }
   ],
   "collaborations": [
@@ -51,25 +129,75 @@
       "name": "Lado Esquerdo do T",
       "cards": [
         {
-          "name": "Nome do Cartão Customizado Lateral ESQ",
-          "description": "Descrição do Cartão 1 Lateral ESQ",
-          "keyObjectives": ["Objetivo 1 Lateral ESQ", "Objetivo 2 Lateral ESQ", "Objetivo 3 Lateral ESQ"],
+          "name": "Gestão de Reputação e Presença Digital",
+          "description": "Aprenda a gerenciar sua reputação e presença nas redes sociais.",
+          "keyObjectives": [
+            "Monitorar e gerenciar sua marca pessoal online",
+            "Criar conteúdo relevante e engajar com seu público",
+            "Resolução de crises de imagem"
+          ],
           "contents": [
             {
               "type": "SITE",
-              "title": "Node.js - Documentation",
-              "link": "https://nodejs.dev/en/learn/"
+              "title": "Guia Completo de Gestão de Reputação Online",
+              "link": "https://www.alura.com.br/artigos/gestao-reputacao-online"
             }
           ]
         },
         {
-          "id": "apollo-client"
+          "name": "Design Gráfico e Identidade Visual",
+          "description": "Como criar uma identidade visual forte para sua marca pessoal.",
+          "keyObjectives": [
+            "Aprender ferramentas de design como Canva",
+            "Criar elementos visuais que representem sua marca",
+            "Desenvolver uma identidade visual consistente"
+          ],
+          "contents": [
+            {
+              "type": "SITE",
+              "title": "Curso de Canva - Design Gráfico para Iniciantes",
+              "link": "https://www.canva.com/learn/design-tutorials/"
+            }
+          ]
         }
       ]
     },
     {
       "name": "Lado Direito do T",
-      "cards": []
+      "cards": [
+        {
+          "name": "Monetização da Marca Pessoal",
+          "description": "Descubra como monetizar sua presença online e seus seguidores.",
+          "keyObjectives": [
+            "Criar produtos digitais e serviços",
+            "Estratégias de marketing de afiliados",
+            "Transformar seguidores em clientes"
+          ],
+          "contents": [
+            {
+              "type": "SITE",
+              "title": "Como Monetizar sua Presença Digital",
+              "link": "https://www.alura.com.br/artigos/monetizacao-presenca-digital"
+            }
+          ]
+        },
+        {
+          "name": "Criação de Produtos Digitais",
+          "description": "Aprenda como criar e vender produtos digitais (cursos, e-books).",
+          "keyObjectives": [
+            "Criar e-books e cursos online",
+            "Estruturar uma estratégia de lançamento",
+            "Transformar conhecimento em renda"
+          ],
+          "contents": [
+            {
+              "type": "SITE",
+              "title": "Guia de Produtos Digitais - Hotmart",
+              "link": "https://www.hotmart.com/blog/como-criar-produtos-digitais"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
