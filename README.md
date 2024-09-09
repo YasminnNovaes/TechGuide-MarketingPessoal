@@ -1,23 +1,105 @@
-### "Olá pessoas!" \o/ 👋
+# Marketing Pessoal - Roadmap em Formato T
 
-My name is Mario Souto, and I'm from Brazil (🇧🇷). I've been working as Front-End Developer since 2015 (also have a past as Open Tibia Server owner). Actually I work as a Front End Engineer at Nubank and have my YouTube Channel where I make it as my personal lab, sharing many stuff there every week :)
+## Visão Geral
+Este roadmap é projetado para ajudar a desenvolver uma forte marca pessoal, tanto online quanto offline. O formato T combina uma ampla base de conhecimento (parte superior do T) com especialização em áreas estratégicas (parte vertical do T).
 
-Would you like to find me?
+---
 
-[![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://youtube.com/c/DevSoutinho)](https://youtube.com/c/DevSoutinho)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/omariosouto)](https://twitter.com/omariosouto)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omariosouto)](https://www.linkedin.com/in/omariosouto)
+## Conhecimento Horizontal (Parte Superior do "T")
 
-### 📹 Recent Videos on YouTube!
+### 1. Fundamentos de Marketing Pessoal
+- **Objetivos:**
+  - Entender os fundamentos de branding pessoal
+  - Definir sua proposta de valor
+  - Se diferenciar no mercado
+- **Recursos:**
+  - [Marketing Pessoal: Como Construir uma Marca Pessoal](https://www.alura.com.br/artigos/marketing-pessoal)
+  - Livro: [Descubra seus Pontos Fortes](https://www.amazon.com.br/Descubra-seus-pontos-fortes-2-0/dp/8539001928)
 
-<!-- YOUTUBE:START -->
-- [Da pra usar HTMX em Produção? feat. Hackhatons &amp; E-commerces](https://www.youtube.com/watch?v=hvOUboy1k6w)
-- [ARQUITETURA: Como implementar o wordle ou termo.oo com IA e Ads | Engenharia reversa. #GoogleADS](https://www.youtube.com/watch?v=zZ0RhVT8TIU)
-- [Angular vs Flutter vs Android JetPack Compose, por que 3 frameworks?? feat. #GoogleIO](https://www.youtube.com/watch?v=9yx7D3_yWrk)
-- [COMO implementar uma politica de cache com expiração? DESAFIO: NodeJS, AWS S3 e TEMPO!](https://www.youtube.com/watch?v=lNORW8z-ftw)
-<!-- YOUTUBE:END -->
+### 2. Comunicação Eficaz
+- **Objetivos:**
+  - Melhorar habilidades de oratória
+  - Aprender copywriting e técnicas de storytelling
+  - Utilizar storytelling para engajamento
+- **Recursos:**
+  - [Comunicação Eficaz para Networking](https://www.alura.com.br/artigos/comunicacao-eficaz-networking)
+  - TED Talk: [The Magical Science of Storytelling](https://www.ted.com/talks/david_jp_phillips_the_magical_science_of_storytelling)
 
-____
+### 3. Networking Estratégico
+- **Objetivos:**
+  - Desenvolver uma rede profissional sólida
+  - Participar de eventos e comunidades
+  - Usar LinkedIn para networking
+- **Recursos:**
+  - [Guia Completo do LinkedIn](https://blog.linkedin.com/)
+  - Artigos no LinkedIn Learning
 
+### 4. Gestão de Reputação Online
+- **Objetivos:**
+  - Monitorar e gerenciar sua marca pessoal online
+  - Criar conteúdo relevante para redes sociais
+  - Resolução de crises de imagem
+- **Recursos:**
+  - [Guia Completo de Gestão de Reputação Online](https://www.alura.com.br/artigos/gestao-reputacao-online)
 
-[![Mario Souto's github stats](https://github-readme-stats.vercel.app/api?username=omariosouto&theme=dark&show_icons=true&count_private=true)](https://github.com/omariosouto)
+---
+
+## Conhecimento Vertical (Parte Inferior do "T") - Especialização em Marketing Pessoal
+
+### 1. Estratégias Avançadas de Branding Pessoal
+- **Objetivos:**
+  - Tornar-se uma autoridade em seu nicho
+  - Desenvolver uma marca sólida e confiável
+  - Gerenciar relacionamento com a mídia
+- **Recursos:**
+  - [Como se Tornar uma Autoridade no Mercado](https://www.alura.com.br/artigos/autoridade-mercado)
+
+### 2. Marketing de Conteúdo Avançado
+- **Objetivos:**
+  - Criar conteúdo de alta qualidade
+  - Desenvolver estratégias de SEO para melhorar a visibilidade
+  - Aumentar o engajamento
+- **Recursos:**
+  - [SEO para Marketing de Conteúdo](https://neilpatel.com/br/)
+
+### 3. Monetização da Marca Pessoal
+- **Objetivos:**
+  - Criar produtos digitais (e-books, cursos)
+  - Implementar estratégias de marketing de afiliados
+  - Transformar seguidores em clientes
+- **Recursos:**
+  - [Como Monetizar sua Presença Digital](https://www.alura.com.br/artigos/monetizacao-presenca-digital)
+  - [Guia de Produtos Digitais - Hotmart](https://www.hotmart.com/blog/como-criar-produtos-digitais)
+
+---
+
+## Colaborações (Lados do "T")
+
+### Lado Esquerdo: Design Gráfico e Identidade Visual
+- **Objetivos:**
+  - Aprender ferramentas de design como Canva
+  - Criar uma identidade visual consistente para sua marca
+  - Melhorar suas habilidades em design gráfico
+- **Recursos:**
+  - [Curso de Canva - Design Gráfico para Iniciantes](https://www.canva.com/learn/design-tutorials/)
+
+### Lado Direito: Criação de Produtos Digitais
+- **Objetivos:**
+  - Criar e-books e cursos online
+  - Estruturar uma estratégia de lançamento de produtos digitais
+  - Transformar conhecimento em renda
+- **Recursos:**
+  - [Guia de Produtos Digitais - Hotmart](https://www.hotmart.com/blog/como-criar-produtos-digitais)
+
+---
+
+## Leitura Recomendada
+- **"Me Poupe!" - Nathalia Arcuri**
+- **"Como Fazer Amigos e Influenciar Pessoas" - Dale Carnegie**
+- **"Plataforma: Como Ser Descoberto em um Mundo de Excesso de Informação" - Michael Hyatt**
+
+---
+
+## Próximos Passos
+1. Identifique áreas onde você já possui um bom domínio e foque em aperfeiçoar os pontos mais relevantes para seus objetivos de carreira.
+2. Estabeleça uma rotina de aprendizado com base nos recursos listados para consolidar sua marca pessoal.
